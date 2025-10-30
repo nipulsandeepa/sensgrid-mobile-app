@@ -1,0 +1,59 @@
+# Flutter
+.dart_tool/
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# Android
+android/.gradle/
+android/.idea/
+android/gradle/wrapper/gradle-wrapper.jar
+android/local.properties
+android/**/build/
+android/**/generated/
+
+# iOS
+ios/.generated/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/**/GeneratedPluginRegistrant.*
+
+# Build
+build/
+flutter-build/
+
+# Flutter related
+.packages
+.pub-cache/
+.pub/
+/pubspec.lock
+
+# Web
+.webpack/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+**/gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+
+# Flutter App
+/flutter/app.*
+*.jks
+*.keystore
+*.p12
+*.key
+*.cer
