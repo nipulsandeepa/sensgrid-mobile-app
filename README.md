@@ -15,12 +15,6 @@ A Flutter mobile application for connecting to ESP32 devices and accessing the S
 - **Professional UI**: Material Design with SensGrid branding
 - **Offline Capable**: Works without internet for local devices
 
-## 📱 Screenshots
-
-| Light Theme | Dark Theme | IP Dialog |
-|-------------|------------|-----------|
-| *Add your screenshots here* | *Add your screenshots here* | *Add your screenshots here* |
-
 ## 🚀 Quick Start
 
 ### Prerequisites
