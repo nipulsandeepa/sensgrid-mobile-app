@@ -1,4 +1,4 @@
-# SensGrid IoT Controller
+# 🛰️ SensGrid IoT Controller
 
 A Flutter mobile application for connecting to ESP32 devices and accessing the SensGrid IoT platform. Features dark/light theme switching and dual-mode web navigation.
 
@@ -30,13 +30,13 @@ A Flutter mobile application for connecting to ESP32 devices and accessing the S
    git clone https://github.com/nipulsandeepa/sensgrid-mobile-app.git
    cd sensgrid-mobile-app
 
-3. **Install dependencies**
+2. **Install dependencies**
    
    ```bash
    flutter pub get
    
 
-4. **Run the App on an Android Device**
+3. **Run the App on an Android Device**
 
   ⚠️ **Important:**  
   
@@ -72,7 +72,7 @@ A Flutter mobile application for connecting to ESP32 devices and accessing the S
 
     flutter devices
 
-5. **Building APK**
+4. **Building APK**
    
    ```bash
    flutter build apk --release
